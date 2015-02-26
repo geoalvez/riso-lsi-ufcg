@@ -1,0 +1,594 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:base="http://lsi.dsc.ufcg.edu.br/riso.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_mark_viii /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/a_large_spotted_feline_of_tropical_america_similar_to_the_leopard /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat/n/any_of_several_large_cats_typically_able_to_roar_and_living_in_the_wild /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/doe_not_contain_these_word_mammal_tiger_leopard_jaguar /r/CapableOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/a_large_spotted_feline_of_tropical_america_similar_to_the_leopard /r/MemberOf">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera/n/lions /r/MemberOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/video_game /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/black /r/HasProperty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/some_jaguar /r/HasProperty">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/black /r/HasProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_mark_1 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eight_deer_jaguar_claw /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/band /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_x_350 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_v_12_engine /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile_engine /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tusk_of_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/album /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/musical_work /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/topic /r/CapableOf">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/doe_not_contain_these_word_mammal_tiger_leopard_jaguar /r/CapableOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_ss_100 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_d-type /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_car /r/AtLocation">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/unite_kingdom /r/AtLocation"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/coventry /r/AtLocation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/coventry /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/private_company_limit_by_share /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_yokota /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/athlete /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wrestler /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mobile_alabama /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/gaydon /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/land_rover /r/AtLocation">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_land_rover_gaydon_centre /r/AtLocation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wrestler /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/archie_comics /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/comic_character /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fictional_character /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/vox_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/band /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile_engine /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xf /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar /r/DefinedAs">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_onca /r/DefinedAs"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/skintight_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/band /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aimée_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/film /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/le_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_smile /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mobile_alabama /r/PartOf">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/alabama /r/PartOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xj_220 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/unite_state /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_field /r/AtLocation">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mobile_alabama /r/AtLocation"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/alabama /r/AtLocation"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/unite_state /r/AtLocation"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/university_of_south_alabama /r/AtLocation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_s-type /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera/n/lions /r/MemberOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xk_150 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_c-x_75 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/athlete /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/company /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xkss /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/alabama /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_hunter /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mobile_alabama /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_e-type /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/us_jaguar/n/ix-120 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aircraft /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/band /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/band /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_c-type /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_land_rover /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/company /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/subsidiary /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_love_ep /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/album /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/musical_work /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hm_jaguar/n/f37 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xjs /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_1 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/weapon /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tank_destroyer /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/alabama /r/PartOf">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/unite_state /r/PartOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xj /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hm_jaguar/n/f34 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/grumman_xf_10_f_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aircraft /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fighter_aircraft /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/stadium /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/album /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/musical_work /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xk_140 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sepecat_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aircraft /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/architectural_structure /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/musical_work /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_class_fast_attack_craft /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/unite_state /r/PartOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_land_rover /r/AtLocation">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/gaydon /r/AtLocation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xk_6_engine /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile_engine /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/subsidiary /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat/n/any_of_several_large_cats_typically_able_to_roar_and_living_in_the_wild /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xj_13 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/university_of_south_alabama /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xj_r-15 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_mark_2 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/weapon /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/software /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/marvel_comics /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/comic_character /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fictional_character /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_2 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/weapon /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tank_destroyer /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xk /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xj/n/x351 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_mark_vii /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_mark_v /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/alien_v_predator/n/jaguar_game /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/video_game /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/software /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/novel /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fictional_character /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_field /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/architectural_structure /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/build /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/stadium /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_car /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/company /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/private_company_limit_by_share /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/california_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/soccer_club /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/build /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/american_football_team /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_land_rover_gaydon_centre /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xj_r-9 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/alabama /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_life /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_onca /r/DefinedAs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xk_120 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jacksonville_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/american_football_team /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_mark_x /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_x-type /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_mark_ix /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/comic_character /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fighter_aircraft /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_love /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/band /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/european_jaguar /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_420_and_daimler_sovereign/n/1966–69 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/insurgent_comix /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/comic_character /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fictional_character /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xj_220/n/video_game /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/software /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/video_game /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/unite_state /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xj_r-12 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/unite_kingdom /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tank_destroyer /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xk/n/x100 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/soccer_club /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_s-type/n/1963 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_mark_iv /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar_xk/n/x150 /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>

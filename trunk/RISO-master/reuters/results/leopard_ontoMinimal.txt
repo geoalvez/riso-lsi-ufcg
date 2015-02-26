@@ -1,0 +1,1212 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:coneitos="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rel="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_security_vehicle">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/weapon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_whipray">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/persian_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_1">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/main_battle_tank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hunter">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/software"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/vietnamese_leopard_gecko">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/percina_pantherina">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_leopard_commando_unit">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/military_unit"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/special_force"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sm_leopard/n/auxiliary_cruiser">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_torpedo">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/colombo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/moth/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_frog/n/common_north_american_green_or_brownish_frog_having_white-edged_dark_oval_spots">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/true_frog/n/insectivorous_usually_semiaquatic_web-footed_amphibian_with_smooth_moist_skin_and_long_hind_legs"/>
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/rana/n/type_genus_of_the_ranidae"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/feline_fawn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panther/n/a_leopard_in_the_black_color_phase">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n/large_feline_of_african_and_asian_forests_usually_having_a_tawny_coat_with_black_spots"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_2">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/main_battle_tank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_change_his_spot">
+    <rel:DerivedFrom rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/change/v"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/RelatedTo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/uncia_uncia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fur">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n/film">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/origin_of_war_of_1812">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/arabian_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/widely-distributed_spot_wild_cat">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/vega_valley_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/have_spot">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/monoplane">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/find_in_leap">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/album">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/musical_work"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/south_devon_railway_leopard_class">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/locomotive"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/giant_leopard_moth">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/insect"/>
+    <rel:DerivedFrom rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/moth/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_gecko">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/iguanid/n/lizards_of_the_new_world_and_madagascar_and_some_pacific_islands">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/single">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_plant/n/any_of_various_plants_of_temperate_eurasia">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/herb/n/a_plant_lacking_a_permanent_woody_stem"/>
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ligularia/n/leopard_plants"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/doe_not_contain_these_word_mammal_tiger_leopard_jaguar">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jungle_cat">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/herb/n/a_plant_lacking_a_permanent_woody_stem">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/plain_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/soccer_club">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eastern_leopard_toad">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/seal/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/western_leopard_toad">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_tiger">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_lizard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/CapableOf">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/military_unit">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hm_leopard/n/1659">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/royal_leopard_f._c">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/soccer_club"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/transit_bus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wolf_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/album"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/transverse_volcanic_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild_animal">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/chesapeake–_leopard_affair">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/event"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/military_conflict"/>
+    <rel:PartOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/origin_of_war_of_1812"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/seattle">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/golf_leopard_f._c">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/soccer_club"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_leopard_trust">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rel:AtLocation rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/seattle"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/non-profit_organisation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_cat">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_leopard/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/locomotive">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard&apos;s-bane/n/any_of_several_herbs_of_the_genus_doronicum_having_alternate_often_clasping_stem_leaves_cultivated_for_their_long_stalks_of_yellow_flower_heads">
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/doronicum/n/leopard&apos;s_bane"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/shark/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_bush_fish">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/black">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/doronicum/n/leopard&apos;s_bane">
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/compositae/n/aster"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/asterid_dicot_genus/n/genus_of_more_or_less_advanced_dicotyledonous_herbs_and_some_trees_and_shrubs"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_6_litre_roadster">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/operate_system">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/comic_character">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tagak_leopard_lord">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/comic_character"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fictional_character"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/formosan_cloud_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/neofelis_nebulosa">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/black_leopard_f._c">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/soccer_club"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/rio_grande_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_coachlines">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/route_of_transportation"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/public_transit_system"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/transit_bus"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place"/>
+    <rel:AtLocation rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/new_zealand"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/architectural_structure"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/infrastructure"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/DefinedAs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wildcat/n/any_small_or_medium-sized_cat_resembling_the_domestic_cat_and_living_in_the_wild">
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/felis/n/true_cats_and_most_wildcats"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac_o">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/musical_work">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/relict_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_cat/n/small_spotted_wildcat_of_southern_asia_and_malaysia">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wildcat/n/any_small_or_medium-sized_cat_resembling_the_domestic_cat_and_living_in_the_wild"/>
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/felis/n/true_cats_and_most_wildcats"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_head">
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ounce">
+    <rel:Synonym rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_leopard/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/bornean_cloud_leopard/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/indian_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/weapon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat">
+    <rel:PartOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fur"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild_animal"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/feline"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar/n/a_large_spotted_feline_of_tropical_america_similar_to_the_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat/n/any_of_several_large_cats_typically_able_to_roar_and_living_in_the_wild"/>
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera/n/lions"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_darter">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rel:DefinedAs rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/percina_pantherina"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n/the_pelt_of_a_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fur/n/the_dressed_hairy_coat_of_a_mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ramsey_canyon_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/zanzibar_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/compositae/n/aster">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/feline">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/carnivore"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tiger">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/similar_leopard"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tlaloc_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/northwest_mexico_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sunda_cloud_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_shark">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rel:DerivedFrom rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/shark/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cheetah">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/limit_partnership">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard-spotted_swellshark">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_12">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/weapon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/descendant_of_snow_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/route_of_transportation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_skate">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/Synonym">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera/n/lions">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/felis/n/true_cats_and_most_wildcats">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/commando_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/architectural_structure">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_flounder">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/barbary_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_spot">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/operate_system"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rel:DerivedFrom rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow/n"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rel:DefinedAs rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/uncia_uncia"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard">
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cheetah"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jungle"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fawn"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/feline_fawn"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/software"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/large_cat"/>
+    <rel:HasA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fur"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat_spot"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac_software"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/have_spot"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/operate_system"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_tiger"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jungle_cat"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/streak"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/widely-distributed_spot_wild_cat"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_cat"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow"/>
+    <rel:DefinedAs rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_pardus"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_cheetah"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_spot"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hunter"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/feline"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/large"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild_cat"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:CapableOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/run_in_snow"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/have"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/o"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild_animal"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac_o"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/african_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/chiricahua_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cayman_island">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_pardus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amur_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/dhaka">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/DerivedFrom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_man">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/english_ship_leopard/n/1635">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n/large_feline_of_african_and_asian_forests_usually_having_a_tawny_coat_with_black_spots">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat/n/any_of_several_large_cats_typically_able_to_roar_and_living_in_the_wild"/>
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera/n/lions"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_chimaera">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/special_force">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_class_frigate">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/frigate"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/asterid_dicot_genus/n/genus_of_more_or_less_advanced_dicotyledonous_herbs_and_some_trees_and_shrubs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_woman">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat_spot">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_dace">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_moray_eel">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_moth">
+    <rel:DerivedFrom rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/moth/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/afghan_leopard_gecko">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/ReceivesAction">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/insect">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/HasA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/prionailurus_bengalensis_bengalensis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat/n/any_of_several_large_cats_typically_able_to_roar_and_living_in_the_wild">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/nissan_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/lily/n/any_liliaceous_plant_of_the_genus_lilium_having_showy_pendulous_flowers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/topic">
+    <rel:CapableOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/doe_not_contain_these_word_mammal_tiger_leopard_jaguar"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tarzan_and_leopard_men">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jungle">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/northern_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hm_leopard/n/1741">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/streak">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/de_havilland_leopard_moth">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/monoplane"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aircraft"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hong_kong">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/disease">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/churchill_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/rana/n/type_genus_of_the_ranidae">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sm_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_tortoise">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/us_sea_leopard/n/ss-483">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/bornean/a">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cloud_leopard/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_lily/n/lily_of_western_united_states_having_orange-red_to_crimson_maroon-spotted_flowers">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/lily/n/any_liliaceous_plant_of_the_genus_lilium_having_showy_pendulous_flowers"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_lizard/n/any_of_several_large_lizards_with_many_dark_spots">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/iguanid/n/lizards_of_the_new_world_and_madagascar_and_some_pacific_islands"/>
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/gambelia/n/leopard_lizards"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/javan_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/southern_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard@CONTEXT">
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/streak"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_cat"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/military_conflict"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac_o"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_cheetah"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/automobile"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/black"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/asterid_dicot_genus/n/genus_of_more_or_less_advanced_dicotyledonous_herbs_and_some_trees_and_shrubs"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/military_unit"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/colombo"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac_software"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/felis/n/true_cats_and_most_wildcats"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/doe_not_contain_these_word_mammal_tiger_leopard_jaguar"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_pardus"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/compositae/n/aster"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/origin_of_war_of_1812"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/architectural_structure"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_tiger"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/true_frog/n/insectivorous_usually_semiaquatic_web-footed_amphibian_with_smooth_moist_skin_and_long_hind_legs"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aircraft"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/feline_fawn"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/monoplane"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/musical_work"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/dhaka"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_leopard/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/large_cat"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/route_of_transportation"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/event"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild_cat"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/percina_pantherina"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/transit_bus"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/shark/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/neofelis_nebulosa"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/company"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/have"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/public_transit_system"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/gambelia_silus"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/change/v"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/non-profit_organisation"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/lily/n/any_liliaceous_plant_of_the_genus_lilium_having_showy_pendulous_flowers"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/iguanid/n/lizards_of_the_new_world_and_madagascar_and_some_pacific_islands"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/porno"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/frigate"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/moth/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/similar_leopard"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fawn"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/disease"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_spot"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/widely-distributed_spot_wild_cat"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/weapon"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/carnivore"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/special_force"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/rana/n/type_genus_of_the_ranidae"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fur/n/the_dressed_hairy_coat_of_a_mammal"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat/n/any_of_several_large_cats_typically_able_to_roar_and_living_in_the_wild"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/large"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/find_in_leap"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/operate_system"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/limit_partnership"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/herb/n/a_plant_lacking_a_permanent_woody_stem"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/seattle"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/uncia_uncia"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/bornean/a"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat_spot"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/prionailurus_bengalensis_bengalensis"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/bornean_cloud_leopard/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/infrastructure"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/iguanidae/n/new_world_lizards"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cloud_leopard/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile_genus/n/a_genus_of_reptiles"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/o"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fictional_character"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/have_spot"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/soccer_club"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cayman_island"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/single"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/run_in_snow"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/comic_character"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/seal/n"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/phnom_penh"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera/n/lions"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/vientiane"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/locomotive"/>
+    <rel:hasContext rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/software"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/year_of_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/album"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_catshark">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fish"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/north_china_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_spot">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cloud_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rel:DefinedAs rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/neofelis_nebulosa"/>
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/bornean_cloud_leopard/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/hasContext">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/guerreran_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_syndrome">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/disease"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/frigate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/gambelia/n/leopard_lizards">
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/iguanidae/n/new_world_lizards"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile_genus/n/a_genus_of_reptiles"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow/n">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/large_cat">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/blunt-nosed_leopard_lizard">
+    <rel:DefinedAs rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/gambelia_silus"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ligularia/n/leopard_plants">
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/compositae/n/aster"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/asterid_dicot_genus/n/genus_of_more_or_less_advanced_dicotyledonous_herbs_and_some_trees_and_shrubs"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/PartOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/similar_leopard">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/bornean_cloud_leopard">
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cloud_leopard/n"/>
+    <rel:DerivedFrom rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/bornean/a"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile_genus/n/a_genus_of_reptiles">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_who_have_run_with_me">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_leopard/n/large_feline_of_upland_central_asia_having_long_thick_whitish_fur">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat/n/any_of_several_large_cats_typically_able_to_roar_and_living_in_the_wild"/>
+    <rel:MemberOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera/n/lions"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_seal">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rel:DerivedFrom rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/seal/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hm_leopard/n/1897">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/snow_leopard/n/ep">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/album"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopardess/n/female_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n/large_feline_of_african_and_asian_forests_usually_having_a_tawny_coat_with_black_spots"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/search_for_snow_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/book"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/porno"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/infrastructure">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/phnom_penh">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_cat">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rel:DefinedAs rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/prionailurus_bengalensis_bengalensis"/>
+    <rel:DerivedFrom rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cat/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/us_leopard/n/ix-122">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/person">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fictional_character">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/vientiane">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/change/v">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sri_lankan_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/HasProperty">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac_software">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard-skin_pill-box_hat">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/single"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hm_leopard/n/f14">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/o">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_and_leopardess_and_their_cub">
+    <rel:ReceivesAction rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/find_in_leap"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/gambelia_silus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_capital">
+    <rel:AtLocation rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/colombo"/>
+    <rel:AtLocation rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/phnom_penh"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rel:AtLocation rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/vientiane"/>
+    <rel:AtLocation rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cayman_island"/>
+    <rel:AtLocation rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hong_kong"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/company"/>
+    <rel:AtLocation rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/dhaka"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/limit_partnership"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n/1918_film">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/MemberOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sinai_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/true_frog/n/insectivorous_usually_semiaquatic_web-footed_amphibian_with_smooth_moist_skin_and_long_hind_legs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/public_transit_system">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/island_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/anatolian_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/indochinese_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_cannot_change_it_spot">
+    <rel:RelatedTo rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard/n"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hm_leopard/n/1790">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/spot_cheetah">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/carnivore">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_fringe-fingered_lizard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fawn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/wild_cat">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/non-profit_organisation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/write_work">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/baja_california_leopard_lizard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/military_conflict">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/tarzan_and_leopard_woman">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/porno">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/main_battle_tank">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/device"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/weapon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/visayan_leopard_cat">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/have">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/event">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hm_leopard/n/1703">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ship"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/lowland_leopard_frog">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/amphibian"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/large">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/run_in_snow">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/software">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/cmc_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aircraft"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mean_of_transportation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aircraft">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_anole">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/reptile"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/afc_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/soccer_club"/>
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sport_team"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/new_zealand">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/leopard_2_e">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/main_battle_tank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/place">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/iguanidae/n/new_world_lizards">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mac">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/some_leopard">
+    <rel:HasProperty rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/black"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fur/n/the_dressed_hairy_coat_of_a_mammal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/organisation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/blood_of_leopard">
+    <rel:IsA rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/film"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/big_cat">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,159 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:base="http://lsi.dsc.ufcg.edu.br/riso.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hear_from_great_distance /r/ReceivesAction">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat_race /r/HasProperty">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/noisy /r/HasProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ski/n/narrow_wood_or_metal_or_plastic_runners_used_in_pairs_for_gliding_over_snow /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aquaplane/v/ride_on_an_aquaplane /r/DerivedFrom">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aquaplane/n/a_board_that_is_pulled_by_a_speedboat_as_a_person_stands_on_it_and_skims_over_the_top_of_the_water /r/DerivedFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/motorboat/n/a_boat_propelled_by_an_internal-combustion_engine /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/HasProperty">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fast_but_dangerous /r/HasProperty"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/use_at_sea /r/HasProperty"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/power_by_gasoline /r/HasProperty"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/very_fast /r/HasProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/CapableOf">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/go_very_fast /r/CapableOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/DerivedFrom">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/boat/n /r/DerivedFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aquaplane/n/a_board_that_is_pulled_by_a_speedboat_as_a_person_stands_on_it_and_skims_over_the_top_of_the_water /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/board/n/a_flat_piece_of_material_designed_for_a_special_purpose /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/UsedFor">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/transport_person_across_water_very_fast /r/UsedFor"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/water_ski/v/ride_water_skis /r/DerivedFrom">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/water_ski/n/broad_ski_for_skimming_over_water_towed_by_a_speedboat /r/DerivedFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/outboard_motor /r/HasA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/transport_person_across_water_very_fast /r/UsedFor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/this /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat_go_fast /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/water_ski/n/broad_ski_for_skimming_over_water_towed_by_a_speedboat /r/DerivedFrom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/boat/n /r/DerivedFrom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/HasA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/outboard_motor /r/HasA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/powerful_motor /r/HasA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/small_and_speedboat_be_fast_and_speedboat_be_boat /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/very_fast /r/HasProperty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/boat /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/small_fast_boat /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/small_and_speedboat_be_fast_and_speedboat_be_boat /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/powerful_motor /r/HasA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/go_very_fast /r/CapableOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/board/n/a_flat_piece_of_material_designed_for_a_special_purpose /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hydroplane/v/glide_on_the_water_in_a_hydroplane /r/DerivedFrom">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hydrofoil/n/a_speedboat_that_is_equipped_with_winglike_structures_that_lift_it_so_that_it_skims_the_water_at_high_speeds /r/DerivedFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/water_ski/n/broad_ski_for_skimming_over_water_towed_by_a_speedboat /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/ski/n/narrow_wood_or_metal_or_plastic_runners_used_in_pairs_for_gliding_over_snow /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/aquaplane/n/a_board_that_is_pulled_by_a_speedboat_as_a_person_stands_on_it_and_skims_over_the_top_of_the_water /r/DerivedFrom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/small_fast_boat /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/fast_but_dangerous /r/HasProperty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/no_emmisions_law /r/AtLocation">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat_in_many_state /r/AtLocation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/i_never /r/AtLocation">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/AtLocation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat_in_many_state /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/use_at_sea /r/HasProperty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hydrofoil/n/a_speedboat_that_is_equipped_with_winglike_structures_that_lift_it_so_that_it_skims_the_water_at_high_speeds /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat/n/a_fast_motorboat /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/power_by_gasoline /r/HasProperty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/boat /r/DerivedFrom">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/boat/n /r/DerivedFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat /r/AtLocation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hydrofoil/n/a_speedboat_that_is_equipped_with_winglike_structures_that_lift_it_so_that_it_skims_the_water_at_high_speeds /r/DerivedFrom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat/n/a_fast_motorboat /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/motorboat/n/a_boat_propelled_by_an_internal-combustion_engine /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/boat /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/sound_of_speedboat /r/ReceivesAction">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/hear_from_great_distance /r/ReceivesAction"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/speedboat_go_fast /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/noisy /r/HasProperty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,44 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:base="http://lsi.dsc.ufcg.edu.br/riso.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_onca_augusta /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/jaguar /r/DefinedAs">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_onca /r/DefinedAs"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_onca_mesembrina /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal /r/IsA"/>
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/eukaryote /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/mammal /r/IsA">
+    <rdfs:subClassOf rdf:resource="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/animal /r/IsA"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/panthera_onca /r/DefinedAs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lsi.dsc.ufcg.edu.br/riso.owl#/c/en/specie /r/IsA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>

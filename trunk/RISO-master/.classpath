@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/de.tudarmstadt.ukp.uby.lmf.api-asl-0.2.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/de.tudarmstadt.ukp.uby.lmf.model-asl-0.2.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-3.2.7.ga.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.13.jar"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>
